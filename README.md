@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guga40
-- 👀 I’m interested in  engressar em uma área que sempre  tive vondade de trabalhar qeu é Desenvolvimento
+- 👀 I’m interested in  engressar em uma área que sempre  tive vontade de trablhar que é desenvolvimento   
 - 🌱 I’m currently learning  Logica de Programção com Java para iniciantes,  Java e Orientação ao Objeto, Banco de dados e SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
